@@ -1,4 +1,4 @@
-# Exercicio de API Tarefa_EF" com Entity Framework
+# Exercicio de API "Tarefa_EF" com Entity Framework
 **Exercicio de API utilizando o Entity Framework com .NET e com o CodeFirst**
 **Para fazer a Migration e gerar um banco de dados, é utilizado os seguintes códigos:**
 
